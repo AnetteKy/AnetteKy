@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+• 🌐 Currently working on creating a website for a small business.
+• 📌 Trying ot master HTML, CSS and Javascript.
+• 🪴& 📚 Outside tech: I love-love-love buying new books and houseplants.
+
 <!--
 **AnetteKy/AnetteKy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
