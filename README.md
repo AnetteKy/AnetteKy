@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 - 🌐 Currently working on creating a website for a small business.
 - 📌 Trying to master HTML, CSS and Javascript.
