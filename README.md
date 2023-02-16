@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🌐 Currently working on creating a website for a small business.
-- 📌 Trying ot master HTML, CSS and Javascript.
-- 🪴& 📚 Outside tech: I love-love-love buying new books and houseplants.
+- 📌 Trying to master HTML, CSS and Javascript.
+- 🪴& 📚 Outside tech: I love buying new books and houseplants.
 
 
 <!--
