@@ -3,7 +3,6 @@
 - 🌐 Currently working on creating a website for a small business.
 - 📌 Trying to master HTML, CSS and Javascript.
 - 🖥️ Hoping to become a full-stack developer.
--
 - 📚🪴❄️ Outside tech: I love books, plants and snowy winters.
 
 
