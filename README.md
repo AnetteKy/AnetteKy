@@ -1,9 +1,9 @@
 ### Hi 👋
 
-- 🌐 Currently learning Java and Spring.
-- 📌 Trying to master HTML, CSS and Javascript.
-- 🖥️ Hoping to become a full-stack developer.
-- 📚🪴❄️ Outside tech: I love books, plants and snowy winters.
+- 📌 Currently learning Java and Spring.
+- 🖥️ Trying to master HTML, CSS and Javascript.
+- 👩‍💻 Hoping to become a full-stack developer.
+- 📚🪴🌞❄️ Outside tech: I love books, plants and absolutely all the seasons.
 
 
 <!--
